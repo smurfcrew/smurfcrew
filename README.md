@@ -8,7 +8,6 @@ If you find my projects helpful, consider buying me a coffee!
 
 
 - 🔭 I’m currently working on ... [Python Claude AI](https://github.com/smurfcrew/Python-Claude-Cli)
-- 🌱 I’m currently learning ... Flask 
 - 👯 I’m looking to collaborate on ... open-source projects.
 - 🤔 I’m looking for help with ... DB Schema on a Flask Web App
 <!--
