@@ -6,7 +6,7 @@ If you find my projects helpful, consider buying me a coffee!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow.svg)](https://www.buymeacoffee.com/smurfcrew)
 
-
+- 🤖 Previously worked on Gen AI 
 - 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ... Open-Source Projects.
 - 🤔 I’m looking for help with ... 
